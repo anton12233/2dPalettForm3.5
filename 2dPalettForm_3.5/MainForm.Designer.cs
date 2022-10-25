@@ -38,13 +38,12 @@
             // 
             // PalettPanel
             // 
-            this.PalettPanel.BackColor = System.Drawing.SystemColors.GrayText;
+            this.PalettPanel.BackColor = System.Drawing.Color.Gray;
             this.PalettPanel.ForeColor = System.Drawing.SystemColors.Control;
             this.PalettPanel.Location = new System.Drawing.Point(10, 10);
             this.PalettPanel.Name = "PalettPanel";
             this.PalettPanel.Size = new System.Drawing.Size(670, 430);
             this.PalettPanel.TabIndex = 0;
-            this.PalettPanel.BackColor = System.Drawing.Color.Gray;
             this.PalettPanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.PalettPanel_MouseClick);
             // 
             // DeleteFirst
@@ -82,7 +81,7 @@
             this.TotalPoint.AutoSize = true;
             this.TotalPoint.Location = new System.Drawing.Point(685, 216);
             this.TotalPoint.Name = "TotalPoint";
-            this.TotalPoint.Size = new System.Drawing.Size(70, 15);
+            this.TotalPoint.Size = new System.Drawing.Size(74, 13);
             this.TotalPoint.TabIndex = 4;
             this.TotalPoint.Text = "Total points: 0";
             // 
@@ -106,6 +105,7 @@
             this.Controls.Add(this.DeleteLast);
             this.Controls.Add(this.DeleteFirst);
             this.Controls.Add(this.PalettPanel);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "MainForm";
             this.Text = "Palette";
             this.ResumeLayout(false);
