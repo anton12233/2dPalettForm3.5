@@ -1,0 +1,9 @@
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\bin\Debug\2dPalettForm_3.5.exe
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\bin\Debug\2dPalettForm_3.5.pdb
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\obj\Debug\2dPalettForm_3.5.csprojAssemblyReference.cache
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\obj\Debug\_2dPalettForm_3._5.MainForm.resources
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\obj\Debug\_2dPalettForm_3._5.Properties.Resources.resources
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\obj\Debug\2dPalettForm_3.5.csproj.GenerateResource.cache
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\obj\Debug\2dPalettForm_3.5.csproj.CoreCompileInputs.cache
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\obj\Debug\2dPalettForm_3.5.exe
+c:\users\anton\source\repos\2dPalettForm_3.5\2dPalettForm_3.5\obj\Debug\2dPalettForm_3.5.pdb
